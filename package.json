@@ -29,7 +29,8 @@
     "nestjs-joi": "^1.10.0",
     "node-pg-migrate": "6.2.2",
     "pg": "^8.10.0",
-    "postgresql": "^0.0.1"
+    "postgresql": "^0.0.1",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "@nestjs/cli": "^10.0.0",
@@ -38,6 +39,7 @@
     "@types/express": "^4.17.17",
     "@types/node": "^20.3.1",
     "@types/supertest": "^2.0.12",
+    "@types/uuid": "^9.0.7",
     "@typescript-eslint/eslint-plugin": "^6.9.0",
     "@typescript-eslint/parser": "^6.9.0",
     "@typescript-eslint/typescript-estree": "^6.9.0",
